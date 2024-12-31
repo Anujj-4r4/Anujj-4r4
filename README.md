@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj Sati</h1>
 <h3 align="center">A passionate Frontend developer</h3>
-- 🌱 I’m currently learning **JS , REACT**
+- 🌱 I’m currently learning **JS , REACT** <br>
 - 📫 How to reach me **satianuj123@gmail.com**
 <h3 align="center">A passionate frontend developer</h3>
 
