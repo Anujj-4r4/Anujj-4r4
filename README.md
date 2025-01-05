@@ -4,7 +4,7 @@
 
 💫 About Me:
 🌱 I’m currently learning JS, REACT<br>
-📫 How to reach me satianuj123@gmail.com 
+📫 How to reach me satianuj123@gmail.com
 
 
 🌐 Socials:
