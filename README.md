@@ -15,6 +15,8 @@
 📊 GitHub Stats:<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anujj-4r4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujj-4r4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=ff33df&size=20&center=true&vCenter=true&width=600&height=50&lines=Show+some+%E2%9D%A4%EF%B8%8F+by+starring+some+of+the+repositories!;" alt="Headline" />
 
 
 
