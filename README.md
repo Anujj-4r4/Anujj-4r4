@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Sati</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 💫 About Me: 
 🌱 I’m currently learning JS, REACT<br>
