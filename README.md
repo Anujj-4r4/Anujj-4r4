@@ -4,7 +4,7 @@
 💫 About Me: 
 🌱 I’m currently learning JS, REACT<br>
 📫 How to reach me satianuj123@gmail.com 
-
+<img align="right" alt="Coding" width="335" src="https://user-images.githubusercontent.com/32653955/190232403-6277abaa-a669-4ca9-ba65-f862b44391f9.gif">
 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj_sati9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-sati-24a47b226) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anuj_ok9) 
 
