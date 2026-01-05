@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj Sati</h1>
 <h3 align="center">A passionate Developer</h3>
- 
+  
 💫 About Me:   
 🌱 I’m currently learning Full Stack Devlopment<br><br>
 📫 How to reach me satianuj123@gmail.com <br><br> 
